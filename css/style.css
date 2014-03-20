@@ -1,0 +1,38 @@
+body{
+	background-color: #FFFFF0
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+section {
+	overflow: hidden;
+	width: 100%;
+	padding: 4px 20px;
+	clear: both;
+}
+
+
+/*
+other fonts Nixie One
+*/
+
+
+
+.name {
+	font-family: 'Nixie', cursive;
+	font-size: 24px;
+
+}
+
+
+.my_icon {
+	margin: 4px 20px;
+	float: left;
+}
+
+.my_icon_i {
+	width: 72px;
+}
