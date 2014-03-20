@@ -10,14 +10,15 @@ a {
 section {
 	overflow: hidden;
 	width: 100%;
+	margin: 20px 20px 0px;
 	padding: 4px 20px;
 	clear: both;
 }
 
-
 .name {
 	font-family: 'Nixie', cursive;
-	font-size: 24px;
+	font-size: 36px;
+	padding-top: 24px;
 }
 
 .my_icon {
@@ -32,13 +33,12 @@ section {
 .paragraph {
 	font-family: 'Nixie One' cursive;
 	font-size: 24px;
-
+	padding-bottom: 5px; 
 }
 
 .list {
 	margin: 4px 20px;
 	padding: 0px 20px 20px 0px;
-	list-style: none;
 }
 
 .list_item {
